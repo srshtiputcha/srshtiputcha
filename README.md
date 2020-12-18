@@ -5,4 +5,4 @@ Hi! I'm Srshti and I'm a PhD student at the STOR-i Centre for Doctoral Training,
 - 🌱 I’m currently learning Julia
 - ⚡ Pronouns: she/her
 
-Blog: https://sputcha1.github.io
+**Blog:** https://sputcha1.github.io
